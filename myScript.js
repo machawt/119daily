@@ -1,5 +1,19 @@
 let cnt=-1;
-let txt=["Pi*ka*_*ka*li*ka*li*_*ka*pi*_*ma*ka*ti*nga*.","Ti*rri*ka*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*ta*ka*.","mu*wa*ni*_*ka*li*ka*li*_*yi*mi*_*ka*pi*_*ti*ngi*wi*ni*.",
+let txt=["*ויבאני *חסדך *יהוה *תשועתך* כאמר׃",
+
+42 ואענה חרפי דבר כי־בטחתי בדברך׃
+
+43 ואל־תצל מפי דבר־אמת עד־מאד כי למשפטך יחלתי׃
+
+44 ואשמרה תורתך תמיד לעולם ועד׃
+
+45 ואתהלכה ברחבה כי פקדיך דרשתי׃
+
+46 ואדברה בעדתיך נגד מלכים ולא אבוש׃
+
+47 ואשתעשע במצותיך אשר אהבתי׃
+
+48 ואשא־כפי אל־מצותיך אשר אהבתי ואשיחה בחקיך׃*li*_*yi*mi*_*ka*pi*_*ti*ngi*wi*ni*.",
          "Tin*nga*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*nga*rra*-*rri*nga*ni*.",
          "Pu*la*ngum*wa*ka*_*pa*pi*_*ji*yi*mi*_*ka*pi*_*ma*ka*ti*nga*.","Nin*ki*yi*,*_*pi*ka*_*ka*li*ka*li*_*ji*yi*mi*_*ka*pi*_*ya*wu*rla*ma*.",
         "Ngi*ya*_*ngi*-*yi*wu*ni*_*yi*wa*pa*_*mu*wa*ni*.", 
