@@ -13,7 +13,7 @@ clean=txt[cnt].replaceAll('*','');
 re.innerText=clean;
 let test=document.getElementById("echo");
 test.innerText="";
-//engdiv=document.getElementById("english");
+engdiv=document.getElementById("english");
 //engdiv.innerText=engs[cnt];
 keys();}
 
